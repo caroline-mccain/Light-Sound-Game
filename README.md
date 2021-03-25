@@ -6,7 +6,7 @@ Submitted by: **Caroline McCain**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/speckled-mellow-ulna
 
 ## Required Functionality
 
@@ -40,7 +40,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](assets/lsgameeasy.gif)
+An Easy Game: ![](lsgameeasy.gif)  
+A Medium Game: ![](lsgamemedium.gif)  
+A Hard Game: ![](lsgamehard.gif)
+
+A Game Being Played (just a few tunrs): ![](lsgameeasy2.gif)
 
 
 ## Reflection Questions
